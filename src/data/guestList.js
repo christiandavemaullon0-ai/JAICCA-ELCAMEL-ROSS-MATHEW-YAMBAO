@@ -1,0 +1,17 @@
+export const GUEST_LIST = [
+  'Juan Dela Cruz',
+  'Maria Santos',
+  'Pedro Reyes',
+  'Ana Lopez',
+  'Jose Rizal',
+  'Bianca Flores',
+  'Carlo Mendoza',
+  'Danica Villanueva',
+  'Enzo Navarro',
+  'Faith Ramirez',
+  'Gabriel Torres',
+  'Hazel Lim',
+  'Ivan Castillo',
+  'Julia Garcia',
+  'Kyle Fernandez',
+];

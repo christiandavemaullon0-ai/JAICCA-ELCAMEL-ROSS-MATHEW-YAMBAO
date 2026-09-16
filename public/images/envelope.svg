@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640">
+  <rect width="1000" height="640" rx="46" fill="#FFF9F0"/>
+  <path d="M40 70 500 390 960 70" fill="#EFE3D0"/>
+  <path d="M40 570 390 300c65-51 155-51 220 0l350 270" fill="#F5E6D3"/>
+  <path d="M40 70 500 390 960 70" stroke="#C7A66B" stroke-width="6" fill="none" opacity=".75"/>
+  <circle cx="500" cy="390" r="72" fill="#0A1F44"/>
+  <text x="500" y="410" text-anchor="middle" font-family="Georgia,serif" font-size="54" font-style="italic" fill="#F8C8DC">J&amp;R</text>
+</svg>

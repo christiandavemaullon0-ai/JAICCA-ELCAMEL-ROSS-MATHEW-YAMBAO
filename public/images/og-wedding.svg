@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0A1F44"/>
+  <circle cx="1040" cy="80" r="250" fill="#1B2A4E"/>
+  <circle cx="160" cy="590" r="280" fill="#1B2A4E"/>
+  <path d="M200 315h170M830 315h170" stroke="#C7A66B" stroke-width="2"/>
+  <text x="600" y="220" text-anchor="middle" font-family="Georgia,serif" font-size="44" fill="#F8C8DC">You are cordially invited</text>
+  <text x="600" y="335" text-anchor="middle" font-family="Georgia,serif" font-size="94" fill="#FFF9F0">Jaicca &amp; Ross</text>
+  <text x="600" y="420" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" letter-spacing="10" fill="#C7A66B">10 · 28 · 2026</text>
+</svg>
